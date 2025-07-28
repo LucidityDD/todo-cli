@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1234",
+		"description": "Rake the leaves",
+        "status": "completed",
+        "createdAt": "Monday, July 28th, 2025 at 3:12pm",
+        "updatedAt": "Monday, July 28th, 2025 at 4:57pm"
+	},
+    {
+		"id": "1235",
+		"description": "Mow the lawn",
+        "status": "in-progress",
+        "createdAt": "Monday, July 28th, 2025 at 4:58pm",
+        "updatedAt": "Monday, July 28th, 2025 at 6:05pm"
+	},
+    {
+		"id": "1236",
+		"description": "Water-treat the deck",
+        "status": "todo",
+        "createdAt": "Monday, July 28th, 2025 at 7:07pm",
+        "updatedAt": "Monday, July 28th, 2025 at 7:07pm"
+	}
+]
